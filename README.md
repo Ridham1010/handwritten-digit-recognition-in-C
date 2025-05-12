@@ -93,6 +93,6 @@ Outputs top 3 predictions with confidence scores.
 
 ## Notes
 Training might take time based on your system.
-
+You can download the dataset files for MNIST from Kaggle.com or the official site.
 Custom prediction requires a .raw binary file (784 bytes, pixel intensities 0–255).
 
